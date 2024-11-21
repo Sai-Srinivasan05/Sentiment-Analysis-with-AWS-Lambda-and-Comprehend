@@ -70,7 +70,7 @@ The output CSV file will have an additional `Sentiment` column. Example:
 - **Sanjay M** - [@Sanjay M](https://github.com/sannx4)
 - **Thrisheiyan U K** - [@Thrisheiyan U K](https://github.com/ThrisheiyanUK)
 - **Ramana V** - [@Ramana V](https://github.com/charlielee)
-- **Nuthalapati.Akash** - [@Nuthalapati.Akash](https://github.com/dianaroberts)
+- **Nuthalapati.Akash** - [@Nuthalapati.Akash](https://github.com/Akash1660)
 
 ---
 
