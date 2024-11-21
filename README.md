@@ -26,19 +26,19 @@ This project provides an AWS Lambda function that automates sentiment analysis f
 
 The input CSV file should contain a column named `review_description` with review text. Example:
 
-| review_id | review_description       | rating |
-|-----------|--------------------------|--------|
-| 1         | "Great app, love it!"    | 5      |
-| 2         | "Terrible experience."   | 1      |
+| review_id | review_description       |
+|-----------|--------------------------|
+| 1         | "Great app, love it!"    |
+| 2         | "Terrible experience."   |
 
 ### Output File Format
 
 The output CSV file will have an additional `Sentiment` column. Example:
 
-| review_id | review_description       | rating | Sentiment |
-|-----------|--------------------------|--------|-----------|
-| 1         | "Great app, love it!"    | 5      | POSITIVE  |
-| 2         | "Terrible experience."   | 1      | NEGATIVE  |
+| review_id | review_description       | Sentiment |
+|-----------|--------------------------|-----------|
+| 1         | "Great app, love it!"    | POSITIVE  |
+| 2         | "Terrible experience."   | NEGATIVE  |
 
 ### Deployment Steps
 
