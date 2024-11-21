@@ -65,7 +65,7 @@ The output CSV file will have an additional `Sentiment` column. Example:
 - Reviews are processed sequentially; for high volumes, consider optimizing with batching or multiprocessing.
 - The function assumes that uploaded files are CSVs with valid UTF-8 encoding.
 
-## CO-Authors
+## Co-Authors
 
 - **Sanjay M** - [@Sanjay M](https://github.com/sannx4)
 - **Thrisheiyan U K** - [@Thrisheiyan U K](https://github.com/ThrisheiyanUK)
